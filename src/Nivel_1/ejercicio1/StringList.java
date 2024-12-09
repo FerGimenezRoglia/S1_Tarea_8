@@ -1,6 +1,7 @@
+package Nivel_1.ejercicio1;
+
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class StringList {
 
