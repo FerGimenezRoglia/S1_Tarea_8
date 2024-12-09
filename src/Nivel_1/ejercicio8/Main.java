@@ -1,4 +1,4 @@
-package Nivel_1.ejercico8;
+package Nivel_1.ejercicio8;
 
 public class Main {
     public static void main(String[] args) {
