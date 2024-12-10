@@ -15,4 +15,5 @@ public class Main {
         integerAndStrings.forEach(System.out::println);
 
     }
+
 }
